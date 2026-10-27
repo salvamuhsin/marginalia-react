@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Marginalia Books</title>
+  <link rel="icon" href="/favicon.ico" />
+  <script>document.documentElement.dataset.theme = localStorage.getItem('theme') || 'light';</script>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Young+Serif&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <!-- Netlify Forms: hidden forms so Netlify detects them at deploy time -->
+  <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" hidden>
+    <input name="bot-field" /><input name="name" /><input name="email" /><input name="subject" /><textarea name="message"></textarea>
+  </form>
+  <form name="newsletter" method="POST" data-netlify="true" netlify-honeypot="bot-field" hidden>
+    <input name="bot-field" /><input name="email" />
+  </form>
+  <div id="root" class="contents"></div>
+  <script type="module" src="/src/main.jsx"></script>
+</body>
+</html>

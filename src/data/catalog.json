@@ -1,0 +1,1169 @@
+{
+ "categories": [
+  {
+   "id": 1,
+   "name": "Fiction",
+   "slug": "fiction",
+   "type": "book",
+   "icon": "📖"
+  },
+  {
+   "id": 2,
+   "name": "Science",
+   "slug": "science",
+   "type": "book",
+   "icon": "🔭"
+  },
+  {
+   "id": 3,
+   "name": "History",
+   "slug": "history",
+   "type": "book",
+   "icon": "🏰"
+  },
+  {
+   "id": 4,
+   "name": "Technology",
+   "slug": "technology",
+   "type": "book",
+   "icon": "💻"
+  },
+  {
+   "id": 5,
+   "name": "Bookmarks",
+   "slug": "bookmarks",
+   "type": "accessory",
+   "icon": "🔖"
+  },
+  {
+   "id": 6,
+   "name": "Bookshelves",
+   "slug": "bookshelves",
+   "type": "accessory",
+   "icon": "📚"
+  },
+  {
+   "id": 7,
+   "name": "Book Holders",
+   "slug": "book-holders",
+   "type": "accessory",
+   "icon": "📖"
+  },
+  {
+   "id": 8,
+   "name": "Book Lights",
+   "slug": "book-lights",
+   "type": "accessory",
+   "icon": "💡"
+  },
+  {
+   "id": 9,
+   "name": "Classic Fiction",
+   "slug": "classic-fiction",
+   "type": "book",
+   "icon": "🏛️"
+  },
+  {
+   "id": 11,
+   "name": "Literary Fiction",
+   "slug": "literary-fiction",
+   "type": "book",
+   "icon": "✒️"
+  },
+  {
+   "id": 12,
+   "name": "Contemporary Fiction",
+   "slug": "contemporary-fiction",
+   "type": "book",
+   "icon": "🪟"
+  },
+  {
+   "id": 13,
+   "name": "Historical Fiction",
+   "slug": "historical-fiction",
+   "type": "book",
+   "icon": "🏺"
+  },
+  {
+   "id": 14,
+   "name": "Romance",
+   "slug": "romance",
+   "type": "book",
+   "icon": "💘"
+  },
+  {
+   "id": 15,
+   "name": "Fantasy",
+   "slug": "fantasy",
+   "type": "book",
+   "icon": "🧙"
+  },
+  {
+   "id": 16,
+   "name": "Science Fiction",
+   "slug": "science-fiction",
+   "type": "book",
+   "icon": "🚀"
+  },
+  {
+   "id": 17,
+   "name": "Mystery",
+   "slug": "mystery",
+   "type": "book",
+   "icon": "🔎"
+  },
+  {
+   "id": 18,
+   "name": "Thriller",
+   "slug": "thriller",
+   "type": "book",
+   "icon": "⚡"
+  },
+  {
+   "id": 19,
+   "name": "Horror",
+   "slug": "horror",
+   "type": "book",
+   "icon": "👻"
+  },
+  {
+   "id": 20,
+   "name": "Crime Fiction",
+   "slug": "crime-fiction",
+   "type": "book",
+   "icon": "🕵️"
+  },
+  {
+   "id": 21,
+   "name": "Adventure",
+   "slug": "adventure",
+   "type": "book",
+   "icon": "🧭"
+  },
+  {
+   "id": 22,
+   "name": "Dystopian Fiction",
+   "slug": "dystopian-fiction",
+   "type": "book",
+   "icon": "🌆"
+  },
+  {
+   "id": 23,
+   "name": "Satire",
+   "slug": "satire",
+   "type": "book",
+   "icon": "🎭"
+  },
+  {
+   "id": 24,
+   "name": "Short Stories",
+   "slug": "short-stories",
+   "type": "book",
+   "icon": "🪶"
+  },
+  {
+   "id": 25,
+   "name": "Novels",
+   "slug": "novels",
+   "type": "book",
+   "icon": "📚"
+  },
+  {
+   "id": 26,
+   "name": "Drama",
+   "slug": "drama",
+   "type": "book",
+   "icon": "🎬"
+  },
+  {
+   "id": 27,
+   "name": "Magical Realism",
+   "slug": "magical-realism",
+   "type": "book",
+   "icon": "🦋"
+  },
+  {
+   "id": 28,
+   "name": "Biography",
+   "slug": "biography",
+   "type": "book",
+   "icon": "👤"
+  },
+  {
+   "id": 29,
+   "name": "Autobiography",
+   "slug": "autobiography",
+   "type": "book",
+   "icon": "🪞"
+  },
+  {
+   "id": 30,
+   "name": "Memoir",
+   "slug": "memoir",
+   "type": "book",
+   "icon": "📔"
+  },
+  {
+   "id": 31,
+   "name": "Research & Academic",
+   "slug": "research-academic",
+   "type": "book",
+   "icon": "🧑‍🔬"
+  },
+  {
+   "id": 32,
+   "name": "Dictionaries",
+   "slug": "dictionaries",
+   "type": "book",
+   "icon": "📖"
+  },
+  {
+   "id": 33,
+   "name": "Language Learning",
+   "slug": "language-learning",
+   "type": "book",
+   "icon": "🔤"
+  },
+  {
+   "id": 34,
+   "name": "Exam Preparation",
+   "slug": "exam-preparation",
+   "type": "book",
+   "icon": "📝"
+  },
+  {
+   "id": 35,
+   "name": "Study Guides",
+   "slug": "study-guides",
+   "type": "book",
+   "icon": "🗂️"
+  },
+  {
+   "id": 36,
+   "name": "Reference Books",
+   "slug": "reference-books",
+   "type": "book",
+   "icon": "📒"
+  },
+  {
+   "id": 37,
+   "name": "School Textbooks",
+   "slug": "school-textbooks",
+   "type": "book",
+   "icon": "📐"
+  },
+  {
+   "id": 38,
+   "name": "Early Learning",
+   "slug": "early-learning",
+   "type": "book",
+   "icon": "🧩"
+  },
+  {
+   "id": 39,
+   "name": "Young Adult",
+   "slug": "young-adult",
+   "type": "book",
+   "icon": "🎒"
+  },
+  {
+   "id": 40,
+   "name": "Middle Grade Fiction",
+   "slug": "middle-grade-fiction",
+   "type": "book",
+   "icon": "🐾"
+  },
+  {
+   "id": 41,
+   "name": "Children's Fiction",
+   "slug": "childrens-fiction",
+   "type": "book",
+   "icon": "🦊"
+  },
+  {
+   "id": 42,
+   "name": "Picture Books",
+   "slug": "picture-books",
+   "type": "book",
+   "icon": "🖍️"
+  },
+  {
+   "id": 43,
+   "name": "Humor",
+   "slug": "humor",
+   "type": "book",
+   "icon": "😂"
+  },
+  {
+   "id": 45,
+   "name": "Mythology & Folklore",
+   "slug": "mythology-folklore",
+   "type": "book",
+   "icon": "🐉"
+  },
+  {
+   "id": 46,
+   "name": "Culture & Society",
+   "slug": "culture-society",
+   "type": "book",
+   "icon": "🌍"
+  },
+  {
+   "id": 47,
+   "name": "Fashion",
+   "slug": "fashion",
+   "type": "book",
+   "icon": "👗"
+  },
+  {
+   "id": 48,
+   "name": "Crafts & DIY",
+   "slug": "crafts-diy",
+   "type": "book",
+   "icon": "🧵"
+  },
+  {
+   "id": 49,
+   "name": "Gardening",
+   "slug": "gardening",
+   "type": "book",
+   "icon": "🪴"
+  },
+  {
+   "id": 50,
+   "name": "Parenting & Family",
+   "slug": "parenting-family",
+   "type": "book",
+   "icon": "🧸"
+  },
+  {
+   "id": 51,
+   "name": "Fitness & Sports",
+   "slug": "fitness-sports",
+   "type": "book",
+   "icon": "🏅"
+  },
+  {
+   "id": 52,
+   "name": "Health & Wellness",
+   "slug": "health-wellness",
+   "type": "book",
+   "icon": "🩺"
+  },
+  {
+   "id": 53,
+   "name": "Cooking & Food",
+   "slug": "cooking-food",
+   "type": "book",
+   "icon": "🍲"
+  },
+  {
+   "id": 54,
+   "name": "Music",
+   "slug": "music",
+   "type": "book",
+   "icon": "🎼"
+  },
+  {
+   "id": 56,
+   "name": "Photography",
+   "slug": "photography",
+   "type": "book",
+   "icon": "📷"
+  },
+  {
+   "id": 57,
+   "name": "Art & Design",
+   "slug": "art-design",
+   "type": "book",
+   "icon": "🎨"
+  },
+  {
+   "id": 58,
+   "name": "Poetry",
+   "slug": "poetry",
+   "type": "book",
+   "icon": "🌹"
+  },
+  {
+   "id": 59,
+   "name": "Popular Science",
+   "slug": "popular-science",
+   "type": "book",
+   "icon": "🔬"
+  },
+  {
+   "id": 60,
+   "name": "Engineering",
+   "slug": "engineering",
+   "type": "book",
+   "icon": "🔩"
+  },
+  {
+   "id": 61,
+   "name": "Environmental Science",
+   "slug": "environmental-science",
+   "type": "book",
+   "icon": "🌿"
+  },
+  {
+   "id": 62,
+   "name": "Politics",
+   "slug": "politics",
+   "type": "book",
+   "icon": "🏛️"
+  },
+  {
+   "id": 63,
+   "name": "Philosophy",
+   "slug": "philosophy",
+   "type": "book",
+   "icon": "💭"
+  },
+  {
+   "id": 64,
+   "name": "Religion & Spirituality",
+   "slug": "religion-spirituality",
+   "type": "book",
+   "icon": "🕊️"
+  },
+  {
+   "id": 65,
+   "name": "Psychology",
+   "slug": "psychology",
+   "type": "book",
+   "icon": "🧠"
+  },
+  {
+   "id": 66,
+   "name": "Self-Help",
+   "slug": "self-help",
+   "type": "book",
+   "icon": "🌱"
+  },
+  {
+   "id": 67,
+   "name": "Personal Development",
+   "slug": "personal-development",
+   "type": "book",
+   "icon": "🌻"
+  },
+  {
+   "id": 69,
+   "name": "Economics",
+   "slug": "economics",
+   "type": "book",
+   "icon": "📈"
+  },
+  {
+   "id": 70,
+   "name": "Finance & Investing",
+   "slug": "finance-investing",
+   "type": "book",
+   "icon": "💰"
+  },
+  {
+   "id": 71,
+   "name": "Education",
+   "slug": "education",
+   "type": "book",
+   "icon": "🎓"
+  },
+  {
+   "id": 72,
+   "name": "Travel",
+   "slug": "travel",
+   "type": "book",
+   "icon": "🗺️"
+  },
+  {
+   "id": 73,
+   "name": "Journalism",
+   "slug": "journalism",
+   "type": "book",
+   "icon": "📰"
+  },
+  {
+   "id": 74,
+   "name": "True Crime",
+   "slug": "true-crime",
+   "type": "book",
+   "icon": "🚔"
+  },
+  {
+   "id": 75,
+   "name": "Computer Science",
+   "slug": "computer-science",
+   "type": "book",
+   "icon": "🖥️"
+  },
+  {
+   "id": 76,
+   "name": "Programming",
+   "slug": "programming",
+   "type": "book",
+   "icon": "👨‍💻"
+  },
+  {
+   "id": 77,
+   "name": "Software Engineering",
+   "slug": "software-engineering",
+   "type": "book",
+   "icon": "⚙️"
+  },
+  {
+   "id": 78,
+   "name": "Web Development",
+   "slug": "web-development",
+   "type": "book",
+   "icon": "🌐"
+  },
+  {
+   "id": 79,
+   "name": "Artificial Intelligence",
+   "slug": "artificial-intelligence",
+   "type": "book",
+   "icon": "🤖"
+  },
+  {
+   "id": 80,
+   "name": "Data Science",
+   "slug": "data-science",
+   "type": "book",
+   "icon": "📊"
+  },
+  {
+   "id": 81,
+   "name": "Cybersecurity",
+   "slug": "cybersecurity",
+   "type": "book",
+   "icon": "🔐"
+  },
+  {
+   "id": 82,
+   "name": "Networking",
+   "slug": "networking",
+   "type": "book",
+   "icon": "📡"
+  },
+  {
+   "id": 83,
+   "name": "Databases",
+   "slug": "databases",
+   "type": "book",
+   "icon": "🗄️"
+  },
+  {
+   "id": 84,
+   "name": "Mathematics",
+   "slug": "mathematics",
+   "type": "book",
+   "icon": "➗"
+  },
+  {
+   "id": 85,
+   "name": "Physics",
+   "slug": "physics",
+   "type": "book",
+   "icon": "⚛️"
+  },
+  {
+   "id": 86,
+   "name": "Chemistry",
+   "slug": "chemistry",
+   "type": "book",
+   "icon": "🧪"
+  },
+  {
+   "id": 87,
+   "name": "Biology",
+   "slug": "biology",
+   "type": "book",
+   "icon": "🧬"
+  },
+  {
+   "id": 88,
+   "name": "Astronomy",
+   "slug": "astronomy",
+   "type": "book",
+   "icon": "🔭"
+  },
+  {
+   "id": 89,
+   "name": "Cosmology",
+   "slug": "cosmology",
+   "type": "book",
+   "icon": "🌌"
+  }
+ ],
+ "products": [
+  {
+   "id": 1,
+   "type": "book",
+   "title": "Pride and Prejudice",
+   "author": "Jane Austen",
+   "isbn": "9788943115167",
+   "description": "Set in Regency-era England, the novel follows Elizabeth Bennet and the wealthy Mr. Darcy as their initial misunderstandings and personal prejudices gradually give way to love. Through witty dialogue and memorable characters, Jane Austen explores social class, marriage, family expectations, pride, and the importance of looking beyond first impressions.",
+   "price": 29900,
+   "stock": 5,
+   "year": 1813,
+   "cover_color": "#7A1F3D",
+   "image": "Pride and Prejudice.jpeg",
+   "created_at": "2026-10-24 08:23:51",
+   "category_id": 9,
+   "categoryIds": [
+    9,
+    11,
+    14
+   ]
+  },
+  {
+   "id": 2,
+   "type": "book",
+   "title": "The Great Gatsby",
+   "author": "F. Scott Fitzgerald",
+   "isbn": "9785067945612",
+   "description": "Set in 1920s New York, The Great Gatsby follows Nick Carraway as he becomes acquainted with the mysterious millionaire Jay Gatsby, who throws extravagant parties while longing to reunite with Daisy Buchanan, his former lover. Beneath the glamour and wealth, the novel explores obsession, social class, betrayal, the illusion of success, and the decline of the American Dream.",
+   "price": 49900,
+   "stock": 7,
+   "year": 1925,
+   "cover_color": "#0F5C5C",
+   "image": "The Great Gatsby.jpeg",
+   "created_at": "2026-10-24 08:23:51",
+   "category_id": 9,
+   "categoryIds": [
+    1,
+    9,
+    11
+   ]
+  },
+  {
+   "id": 3,
+   "type": "book",
+   "title": "One Hundred Years of Solitude",
+   "author": "Gabriel García Márquez",
+   "isbn": "9781576668208",
+   "description": "In the town of Macondo, seven generations of one family are destined to live through extraordinary love, devastating wars, impossible wonders, and haunting repetitions of the past. As the Buendía family rises and falls, the line between reality and magic begins to blur, revealing how loneliness can shape an entire legacy. Gabriel García Márquez's unforgettable masterpiece is a dreamlike tale of family, fate, memory, and the cycles of history.",
+   "price": 20000,
+   "stock": 9,
+   "year": 1967,
+   "cover_color": "#B5532A",
+   "image": null,
+   "created_at": "2026-10-24 08:23:51",
+   "category_id": 9,
+   "categoryIds": [
+    1,
+    9,
+    11,
+    27
+   ]
+  },
+  {
+   "id": 4,
+   "type": "book",
+   "title": "Things Fall Apart",
+   "author": "Chinua Achebe",
+   "isbn": "9787019822768",
+   "description": "Set in late nineteenth-century Nigeria, Things Fall Apart follows Okonkwo, a respected Igbo warrior determined to avoid the weakness he associates with his father. His life and community are disrupted by the arrival of Christian missionaries and British colonial authorities. The novel explores cultural identity, tradition, masculinity, pride, colonialism, and the devastating consequences of social change.",
+   "price": 39900,
+   "stock": 4,
+   "year": 1958,
+   "cover_color": "#3B4A1F",
+   "image": "Things Fall Apart.jpeg",
+   "created_at": "2026-10-24 08:23:51",
+   "category_id": 9,
+   "categoryIds": [
+    1,
+    9,
+    11
+   ]
+  },
+  {
+   "id": 5,
+   "type": "book",
+   "title": "A Brief History of Time",
+   "author": "Stephen Hawking",
+   "isbn": "9787800374943",
+   "description": "A Brief History of Time by Stephen Hawking. Edit this description from the admin panel.",
+   "price": 39900,
+   "stock": 11,
+   "year": 1988,
+   "cover_color": "#14213D",
+   "image": null,
+   "created_at": "2026-10-24 08:23:51",
+   "category_id": 2,
+   "categoryIds": [
+    2
+   ]
+  },
+  {
+   "id": 6,
+   "type": "book",
+   "title": "Cosmos",
+   "author": "Carl Sagan",
+   "isbn": "9785675257616",
+   "description": "Cosmos explores the vast universe and the evolution of matter, life, and human consciousness. Carl Sagan explains scientific discoveries, the origin of life, the evolution of galaxies, space exploration, the human brain, and the history of scientific thought in an accessible and engaging way. The book connects science and civilisation while encouraging readers to understand humanity’s place in the universe.",
+   "price": 59900,
+   "stock": 17,
+   "year": 1980,
+   "cover_color": "#2B2D6E",
+   "image": "Cosmos.jpeg",
+   "created_at": "2026-10-24 08:23:51",
+   "category_id": 88,
+   "categoryIds": [
+    2,
+    59,
+    88,
+    89
+   ]
+  },
+  {
+   "id": 7,
+   "type": "book",
+   "title": "The Selfish Gene",
+   "author": "Richard Dawkins",
+   "isbn": "9781665613183",
+   "description": "What if evolution is best understood not through the survival of individuals, but through the survival of their genes? In The Selfish Gene, Richard Dawkins challenges conventional ways of thinking about life, explaining how genes influence behaviour, cooperation, competition, and survival across generations. Blending evolutionary biology with thought-provoking examples, this influential book offers a fascinating new perspective on why living things behave the way they do.",
+   "price": 47500,
+   "stock": 5,
+   "year": 1976,
+   "cover_color": "#5A3E1B",
+   "image": "Selfish Gene.jpeg",
+   "created_at": "2026-10-24 08:23:51",
+   "category_id": 87,
+   "categoryIds": [
+    2,
+    59,
+    65,
+    87
+   ]
+  },
+  {
+   "id": 8,
+   "type": "book",
+   "title": "Sapiens",
+   "author": "Yuval Noah Harari",
+   "isbn": "9788744598139",
+   "description": "How did a species of ordinary apes end up ruling the planet—and what did it take to get there? In Sapiens, Yuval Noah Harari traces humanity's astonishing journey from prehistoric hunter-gatherers to the architects of modern civilisation. Through revolutions in thought, farming, money, religion, and science, he challenges familiar ideas about progress and power, inviting readers to question what makes us human and where our future might lead.",
+   "price": 59900,
+   "stock": 16,
+   "year": 2011,
+   "cover_color": "#8C6A00",
+   "image": "Sapiens.jpeg",
+   "created_at": "2026-10-24 08:23:51",
+   "category_id": 3,
+   "categoryIds": [
+    3,
+    63
+   ]
+  },
+  {
+   "id": 9,
+   "type": "book",
+   "title": "Guns, Germs, and Steel",
+   "author": "Jared Diamond",
+   "isbn": "9781475150855",
+   "description": "Why did some civilisations conquer vast territories while others struggled to resist them? In Guns, Germs, and Steel, Jared Diamond investigates the forces that shaped the unequal paths of human societies. From geography and domesticated crops to infectious diseases and technological advances, he explores how environmental conditions influenced the rise of powerful civilisations. This thought-provoking work challenges familiar explanations of global inequality and offers a sweeping perspective on the forces that shaped human history.",
+   "price": 58500,
+   "stock": 14,
+   "year": 1997,
+   "cover_color": "#444B54",
+   "image": "guns,germs,and steel.jpeg",
+   "created_at": "2026-10-24 08:23:51",
+   "category_id": 46,
+   "categoryIds": [
+    3,
+    46
+   ]
+  },
+  {
+   "id": 10,
+   "type": "book",
+   "title": "The Pragmatic Programmer",
+   "author": "Andrew Hunt & David Thomas",
+   "isbn": "9781854511832",
+   "description": "Writing code that works is only the beginning—building software that remains reliable, adaptable, and easy to maintain is the real challenge. The Pragmatic Programmer shares practical lessons for developers who want to think beyond simply completing a task. Through real-world examples and timeless programming principles, David Thomas and Andrew Hunt explore debugging, automation, flexible design, problem-solving, and professional growth, helping programmers develop the mindset and habits of truly effective software craftspeople.",
+   "price": 79000,
+   "stock": 10,
+   "year": 1999,
+   "cover_color": "#1F3A5F",
+   "image": "The pragmite programmer.jpeg",
+   "created_at": "2026-10-24 08:23:51",
+   "category_id": 76,
+   "categoryIds": [
+    4,
+    36,
+    76,
+    77
+   ]
+  },
+  {
+   "id": 11,
+   "type": "book",
+   "title": "Clean Code",
+   "author": "Robert C. Martin",
+   "isbn": "9787206659062",
+   "description": "This book teaches programmers how to write clean, readable, and maintainable code using practical software craftsmanship principles. It covers meaningful naming, effective functions and classes, code formatting, error handling, unit testing, and test-driven development. Through detailed case studies, Robert C. Martin demonstrates how to identify poor coding practices and refactor existing code into simpler, more reliable software. It is suitable for software developers, programmers, and students who want to improve their coding practices.",
+   "price": 95000,
+   "stock": 5,
+   "year": 2008,
+   "cover_color": "#2E6B3A",
+   "image": "Clean Code.jpeg",
+   "created_at": "2026-10-24 08:23:51",
+   "category_id": 75,
+   "categoryIds": [
+    4,
+    75,
+    76
+   ]
+  },
+  {
+   "id": 12,
+   "type": "book",
+   "title": "Designing Data-Intensive Applications",
+   "author": "Martin Kleppmann",
+   "isbn": "9783820897256",
+   "description": "Designing Data-Intensive Applications by Martin Kleppmann.",
+   "price": 59900,
+   "stock": 19,
+   "year": 2017,
+   "cover_color": "#6B2E2E",
+   "image": "Designing Data-Intensive Applications.jpeg",
+   "created_at": "2026-10-24 08:23:51",
+   "category_id": 4,
+   "categoryIds": [
+    4
+   ]
+  },
+  {
+   "id": 13,
+   "type": "accessory",
+   "title": "Leather Bookmark Set (3)",
+   "author": null,
+   "isbn": null,
+   "description": "Keep your reading organised with this stylish set of three leather bookmarks. Featuring a smooth finish and a classic design, each bookmark offers a simple and elegant way to mark your favourite pages. Durable and lightweight, they are perfect for books, journals, and notebooks, making this set a practical choice for everyday readers and a thoughtful gift for book lovers.",
+   "price": 40000,
+   "stock": 20,
+   "year": null,
+   "cover_color": "#8A5A2B",
+   "image": "eather Bookmarks set 3.jpeg",
+   "created_at": "2026-10-24 08:23:51",
+   "category_id": 5,
+   "categoryIds": [
+    5
+   ]
+  },
+  {
+   "id": 14,
+   "type": "accessory",
+   "title": "Brass Bookmarks",
+   "author": null,
+   "isbn": null,
+   "description": "Bring a little floral charm to your reading with this elegant brass bookmark, featuring a delicate flower-shaped design and a polished metallic finish. Its slim, lightweight structure fits neatly between pages, making it a beautiful and practical accessory for any book lover. Perfect for everyday reading or as a thoughtful gift.",
+   "price": 20000,
+   "stock": 36,
+   "year": null,
+   "cover_color": "#B08D2E",
+   "image": "brass bookmark 2.jpeg",
+   "created_at": "2026-10-24 08:23:51",
+   "category_id": 5,
+   "categoryIds": [
+    5
+   ]
+  },
+  {
+   "id": 15,
+   "type": "accessory",
+   "title": "Magnetic Bookmarks (6 pack)",
+   "author": null,
+   "isbn": null,
+   "description": "Keep your place in any book with this practical and stylish magnetic bookmark. Designed with a secure magnetic closure, it clips neatly over the page without slipping out or damaging the paper. Compact, lightweight, and easy to use, it is perfect for novels, journals, planners, and notebooks, making it an ideal everyday accessory for book lovers.",
+   "price": 70000,
+   "stock": 22,
+   "year": null,
+   "cover_color": "#7A1F3D",
+   "image": "Magnetic Bookmark set 6.jpeg",
+   "created_at": "2026-10-24 08:23:51",
+   "category_id": 5,
+   "categoryIds": [
+    5
+   ]
+  },
+  {
+   "id": 16,
+   "type": "accessory",
+   "title": "Floating Wall Bookshelf",
+   "author": null,
+   "isbn": null,
+   "description": "Add style and functionality to your walls with this modern floating shelf. Its sleek, space-saving design provides the perfect spot to display books, photo frames, small plants, and decorative accessories. With its clean finish and versatile look, it complements a variety of interior styles, making it a practical and elegant addition to any living room, bedroom, or study.",
+   "price": 200000,
+   "stock": 26,
+   "year": null,
+   "cover_color": "#5A3E1B",
+   "image": "floating wall shelf.jpeg",
+   "created_at": "2026-10-24 08:23:51",
+   "category_id": 6,
+   "categoryIds": [
+    6
+   ]
+  },
+  {
+   "id": 17,
+   "type": "accessory",
+   "title": "Tabletop Oak Bookshelf",
+   "author": null,
+   "isbn": null,
+   "description": "Bring warmth and functionality to your space with this elegant oak table shelf. Featuring a natural wood finish and a timeless design, it provides a convenient surface for organising books, displaying decorative pieces, or keeping everyday essentials within reach. Its versatile style complements both modern and traditional interiors, making it a practical addition to your living room, bedroom, or study.",
+   "price": 150000,
+   "stock": 34,
+   "year": null,
+   "cover_color": "#8C6A00",
+   "image": "table oak shelf.jpeg",
+   "created_at": "2026-10-24 08:23:51",
+   "category_id": 6,
+   "categoryIds": [
+    6
+   ]
+  },
+  {
+   "id": 18,
+   "type": "accessory",
+   "title": "Rolling Book Cart",
+   "author": null,
+   "isbn": null,
+   "description": "Keep your space organised with this versatile rolling storage shelf. Designed with multiple tiers and smooth-rolling wheels, it offers convenient storage for books, stationery, household essentials, and decorative items. Its portable design makes it easy to move between rooms, while the practical shelving provides an efficient storage solution for homes, offices, and study spaces.",
+   "price": 200000,
+   "stock": 12,
+   "year": null,
+   "cover_color": "#444B54",
+   "image": "The Rolling Cart.jpeg",
+   "created_at": "2026-10-24 08:23:51",
+   "category_id": 6,
+   "categoryIds": [
+    6
+   ]
+  },
+  {
+   "id": 19,
+   "type": "accessory",
+   "title": "Adjustable Wooden Book Stand",
+   "author": null,
+   "isbn": null,
+   "description": "Make reading and studying more comfortable with this adjustable wooden book stand. Crafted with a natural wood finish, it features an adjustable angle to provide a comfortable viewing position for books, textbooks, and notebooks. Its sturdy design helps keep pages open while reducing the need to hold books by hand. Ideal for reading, studying, cooking, or displaying your favourite books, it combines everyday convenience with timeless style.",
+   "price": 70000,
+   "stock": 37,
+   "year": null,
+   "cover_color": "#3B4A1F",
+   "image": "Foldable Wooden Reading Stand,.jpeg",
+   "created_at": "2026-10-24 08:23:51",
+   "category_id": 7,
+   "categoryIds": [
+    7
+   ]
+  },
+  {
+   "id": 20,
+   "type": "accessory",
+   "title": "Hands-free Page Holder",
+   "author": null,
+   "isbn": null,
+   "description": "Enjoy uninterrupted reading with this convenient hands-free page holder. Designed to keep book pages securely open, it allows you to read comfortably without constantly holding the pages down. Lightweight and easy to use, it is ideal for novels, textbooks, cookbooks, and study materials. A practical reading accessory for book lovers who value comfort and convenience.",
+   "price": 20000,
+   "stock": 11,
+   "year": null,
+   "cover_color": "#2B2D6E",
+   "image": "Page Holder Single Hand.jpeg",
+   "created_at": "2026-10-24 08:23:51",
+   "category_id": 7,
+   "categoryIds": [
+    7
+   ]
+  },
+  {
+   "id": 21,
+   "type": "accessory",
+   "title": "Marble Bookends (pair)",
+   "author": null,
+   "isbn": null,
+   "description": "Keep your books neatly arranged with this elegant pair of marble bookends. Featuring a natural stone finish and a sophisticated design, they provide sturdy support for your favourite novels, textbooks, and decorative books. Their timeless appearance adds a touch of luxury to bookshelves, desks, and reading corners, making them both a practical organiser and a stylish decorative accent.",
+   "price": 200000,
+   "stock": 20,
+   "year": null,
+   "cover_color": "#444B54",
+   "image": "Brown Marble Bookends.jpeg",
+   "created_at": "2026-10-24 08:23:51",
+   "category_id": 7,
+   "categoryIds": [
+    7
+   ]
+  },
+  {
+   "id": 22,
+   "type": "accessory",
+   "title": "Clip-on Rechargeable Book Light",
+   "author": null,
+   "isbn": null,
+   "description": "Enjoy comfortable reading anytime with this convenient clip-on LED light. Designed with a secure clip and an adjustable neck, it allows you to direct the light exactly where you need it. Its compact, lightweight design makes it ideal for reading books at night, studying, or working at your desk without disturbing others. A practical accessory for every book lover.",
+   "price": 39900,
+   "stock": 36,
+   "year": null,
+   "cover_color": "#B5532A",
+   "image": "clip on light.jpeg",
+   "created_at": "2026-10-24 08:23:51",
+   "category_id": 8,
+   "categoryIds": [
+    8
+   ]
+  },
+  {
+   "id": 23,
+   "type": "accessory",
+   "title": "Neck Reading Light",
+   "author": null,
+   "isbn": null,
+   "description": "Enjoy hands-free reading with this flexible neck reading light, designed to provide focused illumination wherever you need it. Its ergonomic, wearable design rests comfortably around your neck, while adjustable light heads let you direct the brightness onto your book. Ideal for bedtime reading, studying, travelling, or crafting, it offers a convenient way to enjoy your favourite activities without disturbing others.",
+   "price": 22900,
+   "stock": 34,
+   "year": null,
+   "cover_color": "#0F5C5C",
+   "image": "neck reading light.jpeg",
+   "created_at": "2026-10-24 08:23:51",
+   "category_id": 8,
+   "categoryIds": [
+    8
+   ]
+  },
+  {
+   "id": 24,
+   "type": "accessory",
+   "title": "Warm LED Reading Lamp",
+   "author": null,
+   "isbn": null,
+   "description": "Enjoy comfortable reading anytime with this convenient clip-on LED light. Designed with a secure clip and an adjustable neck, it allows you to direct the light exactly where you need it. Its compact, lightweight design makes it ideal for reading books at night, studying, or working at your desk without disturbing others. A practical accessory for every book lover.",
+   "price": 30000,
+   "stock": 27,
+   "year": null,
+   "cover_color": "#14213D",
+   "image": "warm led.jpeg",
+   "created_at": "2026-10-24 08:23:51",
+   "category_id": 8,
+   "categoryIds": [
+    8
+   ]
+  },
+  {
+   "id": 25,
+   "type": "book",
+   "title": "Below the Barrel",
+   "author": "Tanisha Headley",
+   "isbn": "9781738171446",
+   "description": "Koa and Maliah are thrown back together on the World Surf Championship Tour after a devastating breakup. Forced to work as a team while their every move is filmed for reality TV, they must confront the painful history between them. But Maliah may not know the real reason their relationship ended. As buried truths surface and their futures in surfing hang in the balance, can they overcome their fears and discover whether their love deserves a second chance?",
+   "price": 159000,
+   "stock": 0,
+   "year": 2024,
+   "cover_color": "#B5532A",
+   "image": "below the barrel.jpg",
+   "created_at": "2026-10-24 16:06:48",
+   "category_id": 14,
+   "categoryIds": [
+    14
+   ]
+  },
+  {
+   "id": 26,
+   "type": "book",
+   "title": "The Kite Runner",
+   "author": "Khaled Hosseini",
+   "isbn": "9781526604743",
+   "description": "Set in Afghanistan, The Kite Runner follows Amir, a privileged boy, and Hassan, the son of his father's servant. Their childhood friendship is shattered by a traumatic event, leaving Amir burdened by guilt. Years later, after fleeing to America, Amir gets an opportunity to return to Taliban-ruled Afghanistan and confront his past. The novel explores friendship, loyalty, betrayal, family, social inequality, and the possibility of redemption.",
+   "price": 49900,
+   "stock": 10,
+   "year": 2003,
+   "cover_color": "#6B2E2E",
+   "image": "the kite runner.jpeg",
+   "created_at": "2026-10-24 16:12:44",
+   "category_id": 26,
+   "categoryIds": [
+    11,
+    13,
+    26
+   ]
+  },
+  {
+   "id": 27,
+   "type": "book",
+   "title": "A Thousand Splendid Suns",
+   "author": "Khaled Hosseini",
+   "isbn": "9781408844441",
+   "description": "Two women. One cruel household. A friendship that becomes their only hope.\r\n\r\nMariam and Laila are born a generation apart, yet fate brings them together under the same roof in war-torn Afghanistan. Trapped in an abusive marriage and surrounded by conflict, they discover an unexpected bond that grows stronger than fear, rivalry, or despair. As war reshapes their country and threatens everything they hold dear, both women must find the courage to protect the people they love. A moving story of friendship, sacrifice, resilience, and the extraordinary strength of women in the face of unimaginable hardship.",
+   "price": 59900,
+   "stock": 23,
+   "year": 2007,
+   "cover_color": "#3B4A1F",
+   "image": "a thousand splendid suns.jpeg",
+   "created_at": "2026-10-24 16:21:44",
+   "category_id": 26,
+   "categoryIds": [
+    11,
+    13,
+    26
+   ]
+  },
+  {
+   "id": 28,
+   "type": "book",
+   "title": "Kafka on the Shore",
+   "author": "Haruki Murakami",
+   "isbn": "9780099458326",
+   "description": "A runaway teenager. An old man who talks to cats. And a world where the impossible refuses to stay impossible.\r\n\r\nAt fifteen, Kafka Tamura escapes his home, haunted by a disturbing prophecy and searching for a life beyond his father's shadow. Meanwhile, elderly Nakata sets out on an unexpected journey after a strange encounter turns his quiet existence upside down. Their separate paths begin to intertwine in a world of mysterious forests, unexplained murders, falling fish, and secrets that blur the boundaries between dreams and reality. As the mysteries deepen, both must confront forces they can barely understand in this haunting, surreal exploration of identity, fate, memory, and the hidden connections between people.",
+   "price": 50000,
+   "stock": 0,
+   "year": 2002,
+   "cover_color": "#3B4A1F",
+   "image": "Haruki Murakami.jpeg",
+   "created_at": "2026-10-24 16:24:31",
+   "category_id": 12,
+   "categoryIds": [
+    11,
+    12,
+    27
+   ]
+  },
+  {
+   "id": 29,
+   "type": "accessory",
+   "title": "Brass Bookmark",
+   "author": null,
+   "isbn": null,
+   "description": "Add a touch of timeless elegance to your reading collection with this set of two brass bookmarks. Featuring a sleek metallic finish and a refined design, these bookmarks offer a stylish way to mark your favourite pages. Lightweight yet durable, they fit neatly between pages without adding bulk, making them perfect for everyday reading or as a thoughtful gift for book lovers.",
+   "price": 39900,
+   "stock": 0,
+   "year": null,
+   "cover_color": "#8A5A2B",
+   "image": "brass bookmark.jpeg",
+   "created_at": "2026-10-25 10:06:18",
+   "category_id": 5,
+   "categoryIds": [
+    5
+   ]
+  },
+  {
+   "id": 30,
+   "type": "accessory",
+   "title": "Magnetic Bookmark",
+   "author": null,
+   "isbn": null,
+   "description": "Make every reading session more convenient with this sleek magnetic bookmark. Designed to fold over the page with a secure magnetic grip, it keeps your place neatly marked without slipping out easily. Compact and lightweight, it is perfect for novels, journals, planners, and notebooks. A simple yet thoughtful accessory for readers who love keeping their books organised.",
+   "price": 20000,
+   "stock": 10,
+   "year": null,
+   "cover_color": "#14213D",
+   "image": "Magnetic Bookmark.jpeg",
+   "created_at": "2026-10-25 10:07:10",
+   "category_id": 5,
+   "categoryIds": [
+    5
+   ]
+  }
+ ]
+}
